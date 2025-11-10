@@ -1,0 +1,6 @@
+Nome,Largura,Altura,Nivel,Posição X,Posição Y
+Base,100,20,0,0,0
+Andar,80,20,1,0,20
+Andar,80,20,1,0,40
+Andar,80,20,1,0,60
+TOPO,60,20,0,0,80

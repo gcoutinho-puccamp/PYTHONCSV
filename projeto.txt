@@ -1,0 +1,5 @@
+BLOCO(Base, 100, 20)
+REPITA(3){
+    BLOCO(Andar, 80, 20)
+}
+TOPO(60, 20)
